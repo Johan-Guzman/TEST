@@ -8,5 +8,13 @@ public class main {
     public int hashCode() {
         return super.hashCode();
     }
-    
+
+    @Override
+    public String toString() {
+        return super.toString();
+    }
+
+    public static int samuel(){
+        return 1;
+    }
 }
