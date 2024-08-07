@@ -8,6 +8,5 @@ public class main {
     public int hashCode() {
         return super.hashCode();
     }
-
-   
+    
 }
