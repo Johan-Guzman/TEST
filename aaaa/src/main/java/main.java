@@ -17,4 +17,6 @@ public class main {
     public static int samuel(){
         return 1;
     }
+
+    //public static;
 }
